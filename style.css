@@ -1,0 +1,45 @@
+ *{
+            margin: 0;
+            padding: 0;
+        }
+        }
+        div[title="b"]{
+            position: relative;
+            margin: 0 0 0 20px;
+            width: 100px;
+            height: 1000px;
+            background: red;
+        }
+        
+        div[tittle="B-l"]{
+            width: 35%;
+            height: 45vh;
+            padding: 50px 0 0 100px;
+            float: left;
+            position: absolute;
+            
+            
+        }
+        h1{
+            font-size: 240px;
+        font-family: bungee shade;
+    
+}
+       .B-r{
+          transform: rotate(180deg);
+            width: 35%;
+            height: 45vh;
+            padding: 50px 0 0 100px;
+           float:right;
+            
+        } 
+    .O{
+    width: auto;
+    height: 100vh;
+    background: red;
+    margin: auto;
+    ;
+    }
+.O-center{
+    text-align: center;
+}
